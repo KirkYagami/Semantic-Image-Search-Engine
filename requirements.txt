@@ -1,0 +1,6 @@
+open-clip-torch
+streamlit
+chromadb
+pillow
+numpy
+tqdm

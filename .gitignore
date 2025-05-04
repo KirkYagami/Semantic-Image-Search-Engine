@@ -1,0 +1,5 @@
+.env
+coco_val_images
+*.jpg
+
+__pycache__
